@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="UHCRun:jar">
+    <output-path>$USER_HOME$/Desktop/Speedrun/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="UHCRun.jar">
+        <element id="module-output" name="UHCRun" />
+      </element>
+    </root>
+  </artifact>
+</component>
