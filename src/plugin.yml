@@ -1,0 +1,4 @@
+name: UHCRun
+version: 1.0.0
+author: TotoCode
+main: com.totocode.uhcrun.Main
